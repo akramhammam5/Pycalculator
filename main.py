@@ -8,6 +8,12 @@ icon = PhotoImage(file='calculator.png')
 Window.iconphoto(True,icon)
 Window.config(background="black")
 
-Window.mainloop() #Listen for events
+def clickZero():
+    print("0")
+
+button = Button(Window,text="0",command=clickZero,font=('comic sans',30),fg='white',bg='black',activeforeground='white',activebackground='black')
+button.pack()
+
+Window.mainloop() #Listen for events and display our window
 
 
