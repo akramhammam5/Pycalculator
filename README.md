@@ -2,7 +2,7 @@
 # Python Basic Calculator
 
 This V1.0 of my Basic Python Calculator project. The version is not going to be special it is just a Basic Calculator.
-I will always keep the project updated with more advanced function and UI.   
+I will always keep the project updated with more advanced function and UI. The project is still under development.
 
 
 ## Authors
