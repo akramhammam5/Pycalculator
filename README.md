@@ -28,9 +28,7 @@ To run this project just type the following command on your terminal.
 - Cross platform
 
 
-## 🚀 About Me
-I'm a Computer Science student at MIU (Misr International University). You can find more about me here: 
-https://github.com/akramhammam5/akramhammam5
+
 
 
 
